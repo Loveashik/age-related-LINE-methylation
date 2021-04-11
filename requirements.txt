@@ -1,0 +1,6 @@
+jupyter
+pandas==1.1.5
+matplotlib==3.3.4
+tqdm==4.59.0
+wget==3.2
+mysql-connector-python==8.0.23
